@@ -5,6 +5,22 @@
 ### Problem Statement :  
 AtliQ Hardware, a leading consumer electronics company, operates globally with a diverse customer base, similar to well-known brands like HP and Dell. While AtliQ Hardware has been experiencing rapid growth, it has encountered challenges in the Latin American market. These challenges stem from their reliance on Excel files for data management. Excel, although versatile, presents difficulties in terms of data comprehension, visualization capabilities, and scalability. These limitations have led to significant losses in the Latin American market." To address this, our objective is to implement an advanced analytics solution to enable efficient data analysis and drive informed decision-making.
 
+## Interactive Dashboard Link
+
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiODZhZjM2M2EtODk5OS00YTEyLTg2MDgtMDliYTk5ZjgyOWIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
+## Skills Learned
+
+- Power BI data modeling
+- DAX calculations
+- Compelling visualization techniques
+- Data interpretation
+- Dashboard design principles
+- User-centric design
+- Stakeholder communication
+- File size optimization using DAX Studio
+- Data integration from various sources like Excel/CSV files, MySQL database, etc.
+
  ### Data Source Details :
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
@@ -109,9 +125,6 @@ Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Err
  Evaluating departmental performance at a glance by  plotting Yearly Trends of KPI’s (GM %,NP%, Market share%), Market Share Trends etc.., which enables business leaders 
  to bridge gap between strategy and results by closely monitoring and managing the execution of initiatives.
 
-
- 
- **Interactive Dashoard Link**  [click here](https://app.powerbi.com/view?r=eyJrIjoiMzUyYjIwYjAtNzdkZi00YTlmLTk4MmItNGU0N2FmNmZiZWZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Conclusion :
 The dashboard has equipped AtliQ Hardware with the capability to assess sales trends across different departments and make decisions guided by data. Moreover, a notable/significant trend on consistent rise in Atliq  market share, witnessing a substantial growth from its initial share of less than 0.5% to an impressive 5.9%. This encouraging trajectory highlights AtliqQ increasing presence and competitiveness in the market
